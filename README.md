@@ -1,9 +1,11 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+
+![image](https://github.com/jaquelinevrg/bank/assets/86803148/c0703952-aff7-4943-b0d6-271c3dbc2b79)
+
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
